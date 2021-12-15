@@ -1,0 +1,9 @@
+notebook
+numpy
+pdf2image
+pandas
+pdfplumber
+tdqm
+ipywidgets
+openpyxl
+# conda install -c conda-forge poppler
